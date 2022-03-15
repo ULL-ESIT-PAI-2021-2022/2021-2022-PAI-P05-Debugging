@@ -1,3 +1,3 @@
 ## PAI Lab assignment 
 
-Unit Testing with Jest
+Debugging in JavaScript
